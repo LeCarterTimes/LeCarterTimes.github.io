@@ -12,3 +12,4 @@ Biscuit’s farts had a magical effect on everyone. Even the grumpiest of faces 
 From that day on, Biscuit became known as the “Farting Maestro of Pugsville.” His fame spread far and wide, and people would come from all over just to witness his extraordinary farting skills. Biscuit brought joy and laughter to countless lives, proving that sometimes, even the funniest things can come from the most unexpected sources.
 
 And so, the legend of Biscuit and his hilarious pug farts lived on, reminding us all to embrace the silly and unexpected moments in life.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TVR2YdosN-s?si=yhfCVq6ssysc1Hfq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
