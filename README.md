@@ -6,6 +6,6 @@
   <button>Search</button>
 </form>
 
-[postone.md](https://lecartertimes.github.io/Home/postone.html)
+[the first chapter of 'visualizing the sacred'](https://lecartertimes.github.io/Home/postone.html)
 
-## placeholder1
+## placeholder2
