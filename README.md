@@ -7,8 +7,8 @@
    aria-label="Search through site content">
   <button>Search</button>
 </form>
-<link rel="stylesheet" type="text/css" href="" />
+<link rel="stylesheet" type="text/css" href="style.css" />
 
 [the first chapter of 'visualizing the sacred'](https://lecartertimes.github.io/Home/postone.html)
 
-## placeholder2
+## placeholder3
