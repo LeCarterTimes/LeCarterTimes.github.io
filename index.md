@@ -1,6 +1,6 @@
 <img src="https://github.com/LeCarterTimes/LeCarterTimes.github.io/assets/149635328/d6c09476-4233-4534-8a5a-b332e65efe2a" />
 
-hellloo
+hellloox
 ---
 layout: default
 ---
@@ -125,11 +125,8 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 The final element.
 ```
 <style>
-
-img{
-  width: "1px";
-  height: "6px";
-}
-
-  
+            img {
+                max-width:100%;
+                max-height: 100%;
+            }
 </style>
