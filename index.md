@@ -1,6 +1,6 @@
 <img src="https://github.com/LeCarterTimes/LeCarterTimes.github.io/assets/149635328/d6c09476-4233-4534-8a5a-b332e65efe2a" />
 
-hello
+helllo
 ---
 layout: default
 ---
@@ -127,8 +127,8 @@ The final element.
 <style>
 
 img{
-  width:100;
-  height:600;
+  width:"100px";
+  height:"600px";
 }
 
   
