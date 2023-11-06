@@ -1,3 +1,4 @@
+<img src="file:///home/chronos/u-ef493da2f2a506e6a403bf7253e668585074bdb6/MyFiles/Camera/IMG_20230709_194004.jpg" width="150"/>
 ---
 layout: default
 ---
