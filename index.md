@@ -1,4 +1,6 @@
-<img src="file:///home/chronos/u-ef493da2f2a506e6a403bf7253e668585074bdb6/MyFiles/Camera/IMG_20230709_194004.jpg" width="150"/>
+<img src="blob:chrome-untrusted://media-app/7b12d93f-2d10-43ba-b620-25baabad2910" alt="Screenshot 2023-07-21 9.10.57 PM.png"/>
+![image](https://github.com/LeCarterTimes/LeCarterTimes.github.io/assets/149635328/d6c09476-4233-4534-8a5a-b332e65efe2a)
+
 ---
 layout: default
 ---
