@@ -1,6 +1,6 @@
 <img src="https://github.com/LeCarterTimes/LeCarterTimes.github.io/assets/149635328/d6c09476-4233-4534-8a5a-b332e65efe2a" />
 
-hellloox
+helllooxi
 ---
 layout: default
 ---
@@ -126,7 +126,7 @@ The final element.
 ```
 <style>
             img {
-                max-width:100%;
-                max-height: 100%;
+                width: 10;
+                height: 100;
             }
 </style>
