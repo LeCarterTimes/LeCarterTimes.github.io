@@ -11,3 +11,4 @@ Something that I think is quite neat however is the fact that this man who is wr
 But overall, I just enjoy reading this book. It gives me such a good way to visualize cultural spread of both the mississippian culture, and that of the osage, with their cosmology and belief that everything is related, the fascinating story of how the sun rises everyday and how they came from the stars, and how they let a foreigner to their culture cook for them and tell him their stories. Very cool book overall
 
 - [Review of the first chapter ot 'Visualizing the sacred'](https://lecartertimes.github.io/postone.html)
+- [Review of the third chapter of 'Visualizing the sacred'](https://lecartertimes.github.io/postthree.html)
