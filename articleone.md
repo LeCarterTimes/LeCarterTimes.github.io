@@ -1,4 +1,4 @@
-#THREE THINGS ABOUT MATH
+# THREE THINGS ABOUT MATH
 
 Three things about math isn't just three things about math like the title may suggest, i really am just writing this to get my feelings about it out about it, like the feeling of ease you can get while following all the rules, the proud-ness that you feel after making it, and just the feelings and personnel challenges that you get while trying to do it. Math is something that creates interest, something that can make someone feel awe at the complexity yet beauty of it, and something that can quite honestly be a hobby, but without a doubt, math is something that inspires. So without a doubt, let's get creative!
 
