@@ -5,4 +5,4 @@
 
 - [Review of the second chapter of 'Visualizing the sacred'](https://lecartertimes.github.io/posttwo.html)
 
-- [Three things about math](LeCarterTimes.github.io/articleone.html)
+- [Three things about math](https://lecartertimes.github.io/articleone.html)
