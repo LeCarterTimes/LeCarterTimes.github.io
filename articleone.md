@@ -22,3 +22,4 @@ Well those are my opinions about  how I feel about math, the simplicities of it,
 
 - [Review of the second chapter of 'Visualizing the sacred'](https://lecartertimes.github.io/posttwo.html)
 
+- [my journal 01](https://lecartertimes.github.io/articletwo.html)
