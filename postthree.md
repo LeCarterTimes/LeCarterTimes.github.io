@@ -14,3 +14,8 @@ This is something that I personally haven't seen very often within native societ
 
 Now I hope you can have an appreciation for the Dhegihan tribes, because they're just so fascinating! Just the way in which they set up their camp to follow the directions,  how their tribe was divided into clans that had specific duties, or how they were patrilineal is honestly so cool!
 If you like this article, please go ahead and check out some of our others, thanks!
+
+
+- [Review of the first chapter ot 'Visualizing the sacred'](https://lecartertimes.github.io/postone.html)
+
+- [Review of the second chapter of 'Visualizing the sacred'](https://lecartertimes.github.io/posttwo.html)
