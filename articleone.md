@@ -15,4 +15,10 @@ Something else I don't like is the feeling when your eyes lose focus and you hav
 Although this does make it IMPOSSIBLE to get work done: you walk in, get ready to do it but you just get nervous, so you say; “ok, i'll do my math as soon as i get a candy bar” you get a candy bar and a cup of water, then you sit back down and say “ok but let me go to the bathroom” then you go to the bathroom, then instead of doing work you just start procrastinating,(because that's what your doing at this point) playing games, eating snacks, and getting nothing done. Then finally the end of the day rolls around and you get to bed, mentally cry a little, and go to sleep. My advice, actually get the work done, say to yourself “i'll give myself a candy bar after i do my work” and you'll feel great.
 
 Well those are my opinions about  how I feel about math, the simplicities of it,the feeling of pride that you get from making it, and the problems and just straight obstacles that you can experience when doing it. If you like this article go ahead and share it with a friend and read another while you're here, Thanks!
- 	
+
+
+
+- [Review of the first chapter ot 'Visualizing the sacred'](https://lecartertimes.github.io/postone.html)
+
+- [Review of the second chapter of 'Visualizing the sacred'](https://lecartertimes.github.io/posttwo.html)
+
