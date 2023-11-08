@@ -19,3 +19,5 @@ If you like this article, please go ahead and check out some of our others, than
 - [Review of the first chapter ot 'Visualizing the sacred'](https://lecartertimes.github.io/postone.html)
 
 - [Review of the second chapter of 'Visualizing the sacred'](https://lecartertimes.github.io/posttwo.html)
+
+- [Review of the fourth chapter of 'Visualizing the sacred'](https://lecartertimes.github.io/postfour.html)
