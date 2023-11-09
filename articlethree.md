@@ -10,3 +10,7 @@ But something on a light note, I am also learning how to play the trumpet!
 I can already play a few songs but if you're a beginner like me, you might have some questions about the physical aspect of playing it. So I will discuss some of the things I faced: first off you may be asking “how do I actually play the thing?” Well the answer is instead of trying to make a “buzzing sound” like everyone on youtube says, you wanna try to make a kind of a humming or vibrating sound when your lips are on the mouthpiece. Another thing you may be asking is “well how do i go up or down in notes?” Well the answer to that one is you CAREFULLY make the hole that you're breathing out smaller for higher notes and larger for deeper notes. One more thing I will touch up on is the ability to read music sheets for songs. Now i still actually have to learn how to do this but just barely reading the notes makes it much easier
 
 Well i hope those tips about the trumpet helped, and i hope my opinions about ‘Visualizing the Sacred’ were interesting, and I am honestly just glad to get my daily struggles about being the Cornbread vigilante this town needs off my chest. If you like this article, check out my others, Cheers!
+
+- [Three things about math](https://lecartertimes.github.io/articleone.html)
+
+- [my journal 01](https://lecartertimes.github.io/articletwo.html)
