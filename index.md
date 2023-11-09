@@ -12,3 +12,5 @@
 - [Three things about math](https://lecartertimes.github.io/articleone.html)
 
 - [my journal 01](https://lecartertimes.github.io/articletwo.html)
+
+- [my journal 02](https://lecartertimes.github.io/articlethree.html)
