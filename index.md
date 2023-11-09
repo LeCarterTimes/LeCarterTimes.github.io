@@ -1,5 +1,5 @@
 # 𝔏𝔢𝔰 𝔱𝔢𝔪𝔭𝔰 𝔡𝔢 ℭ𝔞𝔯𝔱𝔢𝔯
-## les temps de carter hopes to provide a daily entry about any topic, ranging from personel opinion to politics
+### les temps de carter hopes to provide a daily entry about any topic, ranging from personel opinion to politics
 
 - [Review of the first chapter ot 'Visualizing the sacred'](https://lecartertimes.github.io/postone.html)
 
