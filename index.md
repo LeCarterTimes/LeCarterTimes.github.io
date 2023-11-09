@@ -16,3 +16,5 @@
 - [my journal 01](https://lecartertimes.github.io/articletwo.html)
 
 - [my journal 02](https://lecartertimes.github.io/articlethree.html)
+
+- [my journal 03]((https://lecartertimes.github.io/articlefour.html)
