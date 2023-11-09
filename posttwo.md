@@ -1,6 +1,6 @@
 # My review of the second chapter of Visualizing the sacred 
 
-I am reading the second chapter of visualizing the sacred, and this chapter is about the Osage and the way a man who is not apart of the tribe stayed with them for 40 days and learned some stories, how the Osage apparently say they originate from the stars, and how the osage belief system mainly centered around nature, but without adieu, lets jump in!
+#### I am reading the second chapter of visualizing the sacred, and this chapter is about the Osage and the way a man who is not apart of the tribe stayed with them for 40 days and learned some stories, how the Osage apparently say they originate from the stars, and how the osage belief system mainly centered around nature, but without adieu, lets jump in!
 
 Ok so first off It's quite interesting how this man who wrote this chapter has just assumed that because he lived among the Osage, he is now a master storyteller and can evaluate their culture with authority. It is also weird that this man thinks he can just say that all of mississippian culture originated from that of the osage. But by far something that i found insulting was the fact that this man, from thinking “ha ha, i have lived among the osage now for a massive 40 DAYS i can now add onto their charts that were generously given to me other parts of their legends which i think are applicable” and i just think that's whack.
 
