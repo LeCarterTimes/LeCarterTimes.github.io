@@ -11,6 +11,8 @@ I can already play a few songs but if you're a beginner like me, you might have 
 
 Well i hope those tips about the trumpet helped, and i hope my opinions about ‘Visualizing the Sacred’ were interesting, and I am honestly just glad to get my daily struggles about being the Cornbread vigilante this town needs off my chest. If you like this article, check out my others, Cheers!
 
+- [my journal 03](https://lecartertimes.github.io/articlefour.html)
+
 - [Three things about math](https://lecartertimes.github.io/articleone.html)
 
 - [my journal 01](https://lecartertimes.github.io/articletwo.html)
