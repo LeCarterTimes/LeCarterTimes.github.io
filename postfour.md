@@ -13,8 +13,8 @@ But perhaps a better question is why? Why are those things even there in the fir
 I hope you can have an appreciation now for the wonderful and quite honestly barely understood world of where or people would have made carvings, what some of the symbols were and what they could have meant, or just plain why they would have done it! 
 But if you like this article, please go ahead and look at another I have in this series, Thnx!
 
-- [Review of the first chapter ot 'Visualizing the sacred'](https://lecartertimes.github.io/postone.html)
-
 - [Review of the second chapter of 'Visualizing the sacred'](https://lecartertimes.github.io/posttwo.html)
 
 - [Review of the third chapter of 'Visualizing the sacred'](https://lecartertimes.github.io/postthree.html)
+
+- [Review of the fith chapter of 'Visualizing the Sacred'](https://lecartertimes.github.io/postfive.html)
