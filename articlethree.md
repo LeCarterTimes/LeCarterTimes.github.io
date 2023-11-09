@@ -1,6 +1,6 @@
 # Journal entry 02
 
-Cornbread. A word that not many say or even think about every day, but I think about every day. I say this weird word, “cornbread” every day. I think about it every day, when I get up and when I get down. When I work and when I don't. I say this word more times a month than most people say in a year. I am the Cornbreader *plays dramatic music
+#### Cornbread. A word that not many say or even think about every day, but I think about every day. I say this weird word, “cornbread” every day. I think about it every day, when I get up and when I get down. When I work and when I don't. I say this word more times a month than most people say in a year. I am the Cornbreader *plays dramatic music
 But in all seriousness though i do like making just the right cornbread every morning. I've actually been trying to get the most gooey soft cornbread I can, but for now I guess I'll just have to stick to tea and bread. If anyone has any good recipes for good gooey barely cooked cornbread, go ahead and comment the recipe on my youtube channel; LeCarterTimes!
 
 Something more important however was the most recent chapter of Visualizing the Sacred, which I did enjoy reading, but holy! What a long book! The most recent chapter i read was 30 pages long, with each page displaying just raw scientific facts about 
