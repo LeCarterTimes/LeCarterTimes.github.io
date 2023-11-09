@@ -1,6 +1,6 @@
 # Journal entry one
 
-Hi! Thanks for reading this, for anyone who doesn't know, this is my journal post where I speak about things that interest me, like how I am going to season a molcajete, the process i do to get work done, and just my general opinion about web development. If you like this kind of content,go ahead and look at more! thnx!
+#### Hi! Thanks for reading this, for anyone who doesn't know, this is my journal post where I speak about things that interest me, like how I am going to season a molcajete, the process i do to get work done, and just my general opinion about web development. If you like this kind of content,go ahead and look at more! thnx!
 
 So, today I started properly seasoning a molcajete! (for any who don't know, a molcajete is a mexican mortar and pestle.) the way i can tell that you have to season it is you need to fill the bottom up with rice, mash it up then throw it away. Then what you have to do is mash up some new rice, before rinsing it all out and rubbing it all head to toe with a clove of garlic, so that the entire thing is coated and you won’t get any dust in your food! But something that I REALLY wanna do with my molcajete is mash up some meat, beans, and just cook them up on my skillet to make some beef refried beans! My tummy is already grumbling!
 
