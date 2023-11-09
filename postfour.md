@@ -1,7 +1,7 @@
 # My review of the 4th chapter of ‘Visualizing the Sacred’
 
 
-Visualizing the Sacred really is an interesting book, it talks about several things, but right now i really just want to focus on three: The way people made rock carvings have certain meanings, the symbols and their meanings that were carved into the rock, and traditions of actually deciphering these rock faces.
+#### Visualizing the Sacred really is an interesting book, it talks about several things, but right now i really just want to focus on three: The way people made rock carvings have certain meanings, the symbols and their meanings that were carved into the rock, and traditions of actually deciphering these rock faces.
 
 
 Now when you see ancient rock carvings, you may think to yourself, “huh, i wonder what it means”, well some people actually have some theories! The way that this would have spread is there would be a certain symbol or symbols attached to a certain idea or story, so someone would have had to write this down somewhere, and some did. Some wrote it down on shells, pottery, or other materials but the way that some people wrote these things down is they wrote them in stone!
