@@ -1,4 +1,4 @@
-# My review of the 3rd chapter of ‘Visualizing the Sacred’
+# My review of the 4th chapter of ‘Visualizing the Sacred’
 
 
 Visualizing the Sacred really is an interesting book, it talks about several things, but right now i really just want to focus on three: The way people made rock carvings have certain meanings, the symbols and their meanings that were carved into the rock, and traditions of actually deciphering these rock faces.
@@ -12,3 +12,9 @@ But perhaps a better question is why? Why are those things even there in the fir
 
 I hope you can have an appreciation now for the wonderful and quite honestly barely understood world of where or people would have made carvings, what some of the symbols were and what they could have meant, or just plain why they would have done it! 
 But if you like this article, please go ahead and look at another I have in this series, Thnx!
+
+- [Review of the first chapter ot 'Visualizing the sacred'](https://lecartertimes.github.io/postone.html)
+
+- [Review of the second chapter of 'Visualizing the sacred'](https://lecartertimes.github.io/posttwo.html)
+
+- [Review of the third chapter of 'Visualizing the sacred'](https://lecartertimes.github.io/postthree.html)
