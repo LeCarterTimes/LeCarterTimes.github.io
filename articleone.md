@@ -16,7 +16,7 @@ Although this does make it IMPOSSIBLE to get work done: you walk in, get ready t
 
 Well those are my opinions about  how I feel about math, the simplicities of it,the feeling of pride that you get from making it, and the problems and just straight obstacles that you can experience when doing it. If you like this article go ahead and share it with a friend and read another while you're here, Thanks!
 
-
+- [my journal 03](https://lecartertimes.github.io/articlefour.html)
 
 - [Review of the first chapter ot 'Visualizing the sacred'](https://lecartertimes.github.io/postone.html)
 
