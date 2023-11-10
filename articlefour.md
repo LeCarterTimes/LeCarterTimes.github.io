@@ -10,9 +10,8 @@ But something i would like to show is a card game i invented called “diplomacy
 
 If that card game simulation sounds cool to you, go ahead and look it up on youtube, or (hopefully) i will go ahead and add them to my site for ease and convenience. If you like things to do with politics, food, literature or music go ahead and look at some of our other articles, thanks!
 
-- [Three things about math](https://lecartertimes.github.io/articleone.html)
-
 - [my journal 01](https://lecartertimes.github.io/articletwo.html)
 
 - [my journal 02](https://lecartertimes.github.io/articlethree.html)
 
+- [my journal 04](https://lecartertimes.github.io/articlefive.html)
