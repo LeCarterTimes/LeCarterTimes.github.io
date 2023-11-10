@@ -1,7 +1,6 @@
 # Journal 04
 
-#### hi! Thanks for clicking this article, I will be talking about some very exciting things!
-First off, I have created a brand new youtube channel, LeCarterTimes! If you are interested in diy, politics, cooking or anything else in that vein, check it out! Second off, i have acquired some new music, and third off, i have made another crack at the impossible cornbread problem. 
+#### hi! Thanks for clicking this article, I will be talking about some very exciting things!First off, I have created a brand new youtube channel, LeCarterTimes! If you are interested in diy, politics, cooking or anything else in that vein, check it out! Second off, i have acquired some new music, and third off, i have made another crack at the impossible cornbread problem. 
 
 “Something amazing has happened” I say, “what is it? I AM DYING to know! ” and I say, " I learned a song called perot!” I say, and you, in complete and utter awe, start bowing down to me. But in all seriousness though, I did learn a song called perot. It's a short little song, and I'll be posting it on my youtube channel as well as a tutorial for how to sing it soon.
 
