@@ -1,4 +1,4 @@
-# Journal entry one
+# Journal 01
 
 #### Hi! Thanks for reading this, for anyone who doesn't know, this is my journal post where I speak about things that interest me, like how I am going to season a molcajete, the process i do to get work done, and just my general opinion about web development. If you like this kind of content,go ahead and look at more! thnx!
 
@@ -10,8 +10,8 @@ Something I do want to get done in the meantime before I do the molcajete is get
 
 But if you like this, and more specifically me journaling about random things like my process for properly seasoning a mexican mortar and pestle (a molcajete), just my general feelings about work, or me talking about my process of web development, than please go ahead and look at some more articles i think you'll really enjoy, thanks!
 
-- [my journal 01](https://lecartertimes.github.io/articletwo.html)
-
 - [Three things about math](https://lecartertimes.github.io/articleone.html)
 
 - [my journal 03](https://lecartertimes.github.io/articlefour.html)
+
+- [my journal 04](https://lecartertimes.github.io/articlefive.html)
