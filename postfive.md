@@ -10,8 +10,8 @@ Something that is very intriguing about classifying where pottery is from howeve
 
 I honestly find that this section written by David H. Dye is quite intriguing, especially the part about the trouble trying to categorize different styles. But more than anything i enjoy just seeing other people's views and the fields they've written about, i mean just the way about tracking where and when the pottery came from is intriguing, let alone the just ridiculousness of Waring and Holder's methods of classification of materials. If you like this post, check out some more!
 
-- [Review of the second chapter of 'Visualizing the sacred'](https://lecartertimes.github.io/posttwo.html)
-
 - [Review of the third chapter of 'Visualizing the sacred'](https://lecartertimes.github.io/postthree.html)
 
 - [Review of the fourth chapter of 'Visualizing the sacred'](https://lecartertimes.github.io/postfour.html)
+
+- [Review of half the sixth chapter of 'Visualizing the Sacred'](https://lecartertimes.github.io/postsixandonehalf.html)
