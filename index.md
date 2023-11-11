@@ -14,9 +14,9 @@
 - [Review of the fith chapter of 'Visualizing the Sacred'](https://lecartertimes.github.io/postfive.html)
 
   <style>
-    a { color: #FF0000; } /* CSS link color */
+    a { color: #FF0000; } 
   </style>
-  <a href="https://lecartertimes.github.io">A Red Link</a>
+  
 
 - [Review of half the sixth chapter of 'Visualizing the Sacred'](https://lecartertimes.github.io/postsixandonehalf.html)
 
