@@ -1,7 +1,7 @@
 # 𝔏𝔢𝔰 𝔱𝔢𝔪𝔭𝔰 𝔡𝔢 ℭ𝔞𝔯𝔱𝔢𝔯
 ### les temps de carter hopes to provide a daily entry about any topic, ranging from personel opinion to politics
 
-###### placeholder
+##### placeholder02
 
 - [Review of the first chapter ot 'Visualizing the sacred'](https://lecartertimes.github.io/postone.html)
 
@@ -14,7 +14,7 @@
 - [Review of the fith chapter of 'Visualizing the Sacred'](https://lecartertimes.github.io/postfive.html)
 
   <style>
-    a { color: #white; } 
+    a { color: white; } 
   </style>
   
 
