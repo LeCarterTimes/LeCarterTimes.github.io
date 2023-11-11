@@ -14,7 +14,7 @@
 - [Review of the fith chapter of 'Visualizing the Sacred'](https://lecartertimes.github.io/postfive.html)
 
   <style>
-    a { color: #blue; } 
+    a { color: #black; } 
   </style>
   
 
