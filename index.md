@@ -1,5 +1,5 @@
 # 𝔏𝔢𝔰 𝔱𝔢𝔪𝔭𝔰 𝔡𝔢 ℭ𝔞𝔯𝔱𝔢𝔯
-one
+two
 ### les temps de carter hopes to provide a daily entry about any topic, ranging from personel opinion to politics
 
 ![Les temps de Carter](https://github.com/LeCarterTimes/LeCarterTimes.github.io/assets/149635328/7b91fa1d-1296-44d6-b7f4-f6cb2957cb00)
@@ -29,9 +29,6 @@ one
 
 
 <div class="topnav">
-  <a class="active" href="#home">Home</a>
-  <a href="#about">About</a>
-  <a href="#contact">Contact</a>
   <input type="text" placeholder="Search..">
 </div>
 <style>
