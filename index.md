@@ -6,9 +6,9 @@
 
 - [Review of the first chapter ot 'Visualizing the sacred'](https://lecartertimes.github.io/postone.html)
 
-- [Review of the second chapter of 'Visualizing the sacred'](https://lecartertimes.github.io/posttwo.html)
 ![image](https://github.com/LeCarterTimes/LeCarterTimes.github.io/assets/149635328/8653f5e4-7b41-4511-b77f-7f25286cf747)
 
+- [Review of the second chapter of 'Visualizing the sacred'](https://lecartertimes.github.io/posttwo.html)
 
 - [Review of the third chapter of 'Visualizing the sacred'](https://lecartertimes.github.io/postthree.html)
 
