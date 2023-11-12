@@ -27,5 +27,3 @@
 - [my journal 03](https://lecartertimes.github.io/articlefour.html)
 
 - [my journal 04](https://lecartertimes.github.io/articlefive.html)
-
-- [testr](https://lecartertimes.github.io/he.html)
