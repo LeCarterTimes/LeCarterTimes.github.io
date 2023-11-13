@@ -3,3 +3,15 @@
 <hr width=100%>
 <img src="https://m.media-amazon.com/images/I/81naU3CK8pL._AC_UF1000,1000_QL80_.jpg" alt="Visualizing the Sacred: Cosmic... by Lankford, George E." height="478" width="2000"/>
  <h3>view any one of our many artcles on 'Visualizing the Sacred' by George E. Lankford, F Kent Reilly 3rd, and James F. Garber</h3>
+
+- [Review of the first chapter of 'Visualizing the sacred'](https://lecartertimes.github.io/.html)
+
+- [Review of the second chapter of 'Visualizing the sacred'](https://lecartertimes.github.io/.html)
+
+- [Review of the third chapter of 'Visualizing the sacred'](https://lecartertimes.github.io/.html)
+
+- [Review of the fourth chapter of 'Visualizing the sacred'](https://lecartertimes.github.io/.html)
+
+- [Review of the fith chapter of 'Visualizing the sacred'](https://lecartertimes.github.io/.html)
+
+- [Review of the sixth and a half chapter of 'Visualizing the sacred'](https://lecartertimes.github.io/.html)
