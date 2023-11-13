@@ -10,4 +10,4 @@ But something that is just straight foreign to me is their inheritance system. S
 
 But something I must note is the poetry involved. I mean, the book is written from a perspective of someone who has had a lot of experience with the arts, poetry, and other classical western art and philosophy (no duh, it was written by Homer) but i must admit that the art itself is quite impressive and expressive to read, not just from the perspective of “oh this is classic western art, so it must be good”, as i can imagine that Homer, while writing this, must have had a good bit from his own life to draw from to write this. But this has just been my review of the first chapter of the Odyssey, so if you like things like discussing the ideology of the greeks, their limited but albeit interesting beliefs about the world around them, or understanding their social structure, then go ahead and share this with a friend, or if you want you can see another one of our articles, Thanks!
 
-- [Review of the first chapter ot 'Visualizing the sacred'](https://lecartertimes.github.io/postone.html)
+
