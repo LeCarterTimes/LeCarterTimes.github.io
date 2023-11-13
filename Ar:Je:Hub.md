@@ -1,6 +1,6 @@
 <h1>Les temps de Carter 'Daily Journal'</h1>
 <img src="https://github.com/LeCarterTimes/LeCarterTimes.github.io/assets/149635328/7b91fa1d-1296-44d6-b7f4-f6cb2957cb00" alt="les temps de Carter"/>
-<hr width=100%>
+<hr>
 
 <h2>'Daily Journal'</h2>
 
@@ -13,6 +13,7 @@
 
 - [Daily Journal 04](https://lecartertimes.github.io/Ar:Je:Four.html)
 
+- [Daily Journal 05](https://lecartertimes.github.io/Ar:Je:Five.html)
 
 <style>
 
