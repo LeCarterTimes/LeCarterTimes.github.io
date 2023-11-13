@@ -10,10 +10,3 @@ something you may be thinking about however, is “holy, why won't this guy shut
 
 If you enjoy the work I do, like writing about music, then please go ahead and share this with a friend! Or if you enjoy me writing about things like cornbread, or just cooking things in general, then go ahead and visit my channel, LeCarterTimes on youtube! Or if you are interested in the other things my site will be posting about, go ahead and look at some of our other articles, Cheers!
 
-- [my journal 01](https://lecartertimes.github.io/articletwo.html)
-
-- [my journal 02](https://lecartertimes.github.io/articlethree.html)
-
-- [my journal 03](https://lecartertimes.github.io/articlefour.html)
-
-
