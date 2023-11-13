@@ -3,7 +3,7 @@
 
 ![les temps de Carter](https://github.com/LeCarterTimes/LeCarterTimes.github.io/assets/149635328/7b91fa1d-1296-44d6-b7f4-f6cb2957cb00)
 
-<hr width="5000" />
+<hr width="100%" />
  
 - [Review of the first chapter ot 'Visualizing the sacred'](https://lecartertimes.github.io/postone.html)
 
@@ -20,6 +20,11 @@
 - [Review of the fith chapter of 'Visualizing the Sacred'](https://lecartertimes.github.io/postfive.html)
 
 - [Review of half the sixth chapter of 'Visualizing the Sacred'](https://lecartertimes.github.io/postsixandonehalf.html)
+
+<img src="https://www.gutenberg.org/cache/epub/1727/images/cover.jpg" alt="cover" height="250" width="258">
+
+
+- [Review of the first chapter of 'The Odyssey' By Homer](https://lecartertimes.github.io/ArticleTypeTwo.html)
 
 - [Three things about math](https://lecartertimes.github.io/articleone.html)
 
