@@ -10,8 +10,4 @@ Something I do want to get done in the meantime before I do the molcajete is get
 
 But if you like this, and more specifically me journaling about random things like my process for properly seasoning a mexican mortar and pestle (a molcajete), just my general feelings about work, or me talking about my process of web development, than please go ahead and look at some more articles i think you'll really enjoy, thanks!
 
-- [Three things about math](https://lecartertimes.github.io/articleone.html)
 
-- [my journal 03](https://lecartertimes.github.io/articlefour.html)
-
-- [my journal 04](https://lecartertimes.github.io/articlefive.html)
