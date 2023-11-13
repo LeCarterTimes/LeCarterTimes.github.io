@@ -19,7 +19,9 @@
 
 - [Review of the fith chapter of 'Visualizing the sacred'](https://lecartertimes.github.io/Ar:Vts:Five.html)
 
-- [Review of the sixth and a half chapter of 'Visualizing the sacred'](https://lecartertimes.github.io/Ar:Vts:HalfSix.html)
+- [Review of the first third of the sith chapter of 'Visualizing the sacred'](https://lecartertimes.github.io/Ar:Vts:HalfSix.html)
+
+- [Review of the second third of the sith chapter of 'Visualizing the sacred'](https://lecartertimes.github.io/Ar:Vts:TwoThirdsSix.html)
 
 <hr width=100%>
 
