@@ -36,3 +36,19 @@
  - [View articles on 'Visualizing the Sacred' by George E. Lankford, F Kent Reilly 3rd, and James F. Garber](https://lecartertimes.github.io/Ar:Vts:Hub.html)
  
 <hr width="100%" />
+<style>
+
+h1{
+
+text-align: center;
+
+}
+
+
+h2{
+
+text-align: center;
+
+}
+ 
+</style>
