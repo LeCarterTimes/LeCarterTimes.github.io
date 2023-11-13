@@ -5,7 +5,7 @@
 
 <hr width="100%" />
  
-- [Review of the first chapter ot 'Visualizing the sacred'](https://lecartertimes.github.io/postone.html)
+- [Review of the first chapter ot 'Visualizing the sacred'](https://lecartertimes.github.io/Ar:Vts:One.html)
 
 <img src="https://github.com/LeCarterTimes/LeCarterTimes.github.io/assets/149635328/6e418336-0b17-4592-a6e0-a8e222958079" alt="visualizing the sacred" height="250" width="258">
 
