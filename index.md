@@ -3,7 +3,7 @@
 hello00
 ![les temps de Carter](https://github.com/LeCarterTimes/LeCarterTimes.github.io/assets/149635328/7b91fa1d-1296-44d6-b7f4-f6cb2957cb00)
 
-<hr width="50%" color="green" size="50px" align="left" />
+<hr width="5000" />
  
 - [Review of the first chapter ot 'Visualizing the sacred'](https://lecartertimes.github.io/postone.html)
 
