@@ -1,37 +1,38 @@
 # 𝔏𝔢𝔰 𝔱𝔢𝔪𝔭𝔰 𝔡𝔢 ℭ𝔞𝔯𝔱𝔢𝔯
-### les temps de carter hopes to provide a daily entry about any topic, ranging from personel opinion to politics
+## les temps de carter hopes to provide a daily entry about any topic, ranging from personel opinion to politics
 
 ![les temps de Carter](https://github.com/LeCarterTimes/LeCarterTimes.github.io/assets/149635328/7b91fa1d-1296-44d6-b7f4-f6cb2957cb00)
 
 <hr width="100%" />
+
+### These are the hubs of LeCarterTimes, to view any content currently availible, click one of the links below to go to a hub full of that material.
+
+<hr width="100%" />
+
+<img src="https://github.com/LeCarterTimes/LeCarterTimes.github.io/assets/149635328/2d3164d5-7985-4139-8b63-feb0fcee8a77" height="270" width="270"/> 
+
+- [View Daily Entries](https://lecartertimes.github.io/Ar:Je:Hub.html)
+
+<hr width="100%" />
+
+<img src="https://github.com/LeCarterTimes/LeCarterTimes.github.io/assets/149635328/b61e83f5-aec0-4505-b600-5a01951ef325" height="270" width="270"/>
+
+
+ - [View articles about Mathmatics](https://lecartertimes.github.io/Ar:Ma:Hub.html)
+
+<hr width="100%" />
+
+<img src="https://github.com/LeCarterTimes/LeCarterTimes.github.io/assets/149635328/16c084cf-f7b7-4cf0-a411-2ce94369d615" height="270" width="270"/>
+
+
+
+ - [View articles on 'The Odyssey' by Homer](https://lecartertimes.github.io/Ar:To:Hub.html)
+
+<hr width="100%" />
+
+<img src="https://github.com/LeCarterTimes/LeCarterTimes.github.io/assets/149635328/94f6981d-7ae0-4e58-a52f-c1a091aee4a3" alt="visualizing the sacred" height="270" width="270"/>
+
+
+ - [View articles on 'Visualizing the Sacred' by George E. Lankford, F Kent Reilly 3rd, and James F. Garber](https://lecartertimes.github.io/Ar:Vts:Hub.html)
  
-- [Review of the first chapter ot 'Visualizing the sacred'](https://lecartertimes.github.io/Ar:Vts:One.html)
-
-<img src="https://github.com/LeCarterTimes/LeCarterTimes.github.io/assets/149635328/6e418336-0b17-4592-a6e0-a8e222958079" alt="visualizing the sacred" height="250" width="258">
-
-- [Review of the second chapter of 'Visualizing the sacred'](https://lecartertimes.github.io/posttwo.html)
-
-<img src="https://github.com/LeCarterTimes/LeCarterTimes.github.io/assets/149635328/8653f5e4-7b41-4511-b77f-7f25286cf747" alt="visualizing the sacred" height="250" width="258">
-
-- [Review of the third chapter of 'Visualizing the sacred'](https://lecartertimes.github.io/postthree.html)
-
-- [Review of the fourth chapter of 'Visualizing the sacred'](https://lecartertimes.github.io/postfour.html)
-
-- [Review of the fith chapter of 'Visualizing the Sacred'](https://lecartertimes.github.io/postfive.html)
-
-- [Review of half the sixth chapter of 'Visualizing the Sacred'](https://lecartertimes.github.io/postsixandonehalf.html)
-
-<img src="https://www.gutenberg.org/cache/epub/1727/images/cover.jpg" alt="cover" height="250" width="258">
-
-
-- [Review of the first chapter of 'The Odyssey' By Homer](https://lecartertimes.github.io/ArticleTypeTwo.html)
-
-- [Three things about math](https://lecartertimes.github.io/articleone.html)
-
-- [my journal 01](https://lecartertimes.github.io/articletwo.html)
-
-- [my journal 02](https://lecartertimes.github.io/articlethree.html)
-
-- [my journal 03](https://lecartertimes.github.io/articlefour.html)
-
-- [my journal 04](https://lecartertimes.github.io/articlefive.html)
+<hr width="100%" />
