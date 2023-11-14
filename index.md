@@ -58,6 +58,7 @@ h2{
 text-align: center;
 
 }
+
 hr{
 
 color: black;
