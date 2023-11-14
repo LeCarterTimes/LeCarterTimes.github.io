@@ -1,0 +1,14 @@
+# Review or the final part of chapter 6 of ‘Visualizing the sacred’
+
+
+### i find it quite interesting how when looking at art, especially ancient art, the conclusions that you first make go on to shape your perspective on the art for as long as you inspect it. This means, that in addition to coming to conclusions about the cultural importance of certain symbols, you can shape the entire conceptualization about the art itself and all the many forms it can take, like that of pottery or stone. But overall, it is honestly just interesting to study and map out both the ancient and modern relationships connected to symbols and motifs of the past.
+
+Something quite interesting to me is the artistic license you have to apply when looking at historic yet not very well understood symbols and ideas. Something that is quite apparent to me is the fact that the authors, the several that have written these chapters that i am reading, have to have quite a lot of ideas already assumed in order to draw their conclusions about the art, resulting in perhaps a skewed idea about what the symbols meant. It is just so intriguing to me that the people who review these artworks and symbols must be good at interpretations and art in general to be any good in their field.
+
+Although speaking about art, something that is really interesting about the LMV to me is the fact that there are hardly any stone sculptures. This is odd because, in addition to its large area and complexity (check out some of my other articles about the work), it is very rich in clay sculptures. These clay sculptures are almost entirely made in the shape of bowls, and it is honestly quite strange to me that clay sculptures and bowls apparently came BEFORE the usage or apparent invention in that area of stone ones.
+
+“But what about the things that these clay sculptures were supposed to represent, weren't they important to the LMV culture in any way?” I hear you ask, well actually yes, they were. 
+Although we do not know the full extent of the imagery, particularly that of the water panther and winged serpent of the underworld, we do know they were quite important. The LMV seems to have had a particular fascination and connection to the underworld/water world, engraving effigies of the winged serpent and water panther on their bottles, which were possibly used to contain medicine for the dead.
+
+Overall it is quite interesting to me the sheer amount of guessing and personnel interpretation you have to do in order to draw conclusions about the art. But aside from my conclusions and opinions, I just hope everyone reading this gets a sense of just how cool the Mississippian culture really was. If you like hearing things about the licenses you have to draw about art, the apparent absence of stoneware in the LMV, or the cultural importance of it, then go ahead and look at another article, Thanks!
+
