@@ -1,5 +1,8 @@
 # 𝔏𝔢𝔰 𝔱𝔢𝔪𝔭𝔰 𝔡𝔢 ℭ𝔞𝔯𝔱𝔢𝔯
+
 ### les temps de carter hopes to provide a daily entry about any topic, ranging from personel opinion to politics
+
+<hr/>
 
 ![les temps de Carter](https://github.com/LeCarterTimes/LeCarterTimes.github.io/assets/149635328/7b91fa1d-1296-44d6-b7f4-f6cb2957cb00)
 <hr/>
@@ -53,6 +56,11 @@ text-align: center;
 h2{
 
 text-align: center;
+
+}
+hr{
+
+color: black;
 
 }
  
