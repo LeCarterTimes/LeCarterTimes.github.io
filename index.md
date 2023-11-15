@@ -9,22 +9,22 @@
 ![les temps de Carter](https://github.com/LeCarterTimes/LeCarterTimes.github.io/assets/149635328/7b91fa1d-1296-44d6-b7f4-f6cb2957cb00)
 <hr>
 
-## LATEST05
+## LATEST06
 
-<table width="100%">
-<tr>
-<td align="right" valign="top" width="50%">
- 
-<iframe src="https://youtube.com/embed/ZTds8TV1a2Y?feature=share" frameborder="0" height="500" width="500"></iframe>
-
-</td>
-<td align="left" valign="top" width="50%">
+<hr>
 
 <iframe src="https://youtube.com/embed/Q60hPIm0344?feature=share" frameborder="0" height="500" width="500"></iframe>
+<iframe src="https://youtube.com/embed/ZTds8TV1a2Y?feature=share" frameborder="0" height="500" width="500"></iframe>
 
-</td
-</tr>
-</table>
+<div id="wrapper"> 
+    <video> 
+      <iframe src="https://youtube.com/embed/Q60hPIm0344?feature=share" frameborder="0" height="500" width="500"></iframe>
+    </video>
+    <video>
+     <iframe src="https://youtube.com/embed/ZTds8TV1a2Y?feature=share" frameborder="0" height="500" width="500"></iframe>
+    </video>
+    <div class="clear"></div> 
+</div>
 
 <hr>
 
@@ -78,6 +78,45 @@ hr{
 
 color: black;
 
+}
+
+#wrapper { 
+    width: 920px; 
+    height: auto; 
+    margin: 0 auto;
+} 
+#home1 { 
+    width: 47.5%; 
+    height: 300px; 
+    float: left; 
+    margin-right: 5%;
+} 
+
+#home2 { 
+    width: 47.5%; 
+    height: 300px; 
+    float: left; 
+}
+
+.clear{
+    clear: both;
+}
+
+@media (max-width:767px){
+    #wrapper{
+        width: 100%;
+        height: auto;
+    }
+    #home1 {
+        width: 100%;
+        height: auto;
+        float: none;
+    }
+    #home2 {
+        width: 100%;
+        height: auto;
+        float: none;
+    }
 }
  
 </style>
