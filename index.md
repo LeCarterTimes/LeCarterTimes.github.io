@@ -9,18 +9,41 @@
 ![les temps de Carter](https://github.com/LeCarterTimes/LeCarterTimes.github.io/assets/149635328/7b91fa1d-1296-44d6-b7f4-f6cb2957cb00)
 <hr>
 
-## LATEST014
+## LATEST015
 
 <hr>
 
-<div class=“videos-container”>
-    <div class=“video”>
-        <iframe width=“560” height=“315” src=“https://www.youtube.com/embed/ZTds8TV1a2Y?feature=share” frameborder=“0” allowfullscreen></iframe>
-    </div>
-    <div class=“video”>
-        <iframe width=“560” height=“315” src=“https://www.youtube.com/embed/Q60hPIm0344?feature=share” frameborder=“0” allowfullscreen></iframe>
-    </div>
-</div>
+  <meta charset="UTF-8">
+  
+  <style>
+    .video-container {
+      display: flex;
+      justify-content: space-between;
+      margin-bottom: 20px;
+    }
+
+   .video-container iframe {
+      width: 48%; 
+    }
+    h1{
+
+text-align: center;
+
+}
+
+h2{
+
+text-align: center;
+
+}
+    
+  </style>
+</head>
+<body>
+  <div class="video-container">
+    <iframe src="https://youtube.com/embed/ZTds8TV1a2Y?feature=share"></iframe>
+    <iframe src="https://youtube.com/embed/ZTds8TV1a2Y?feature=share"></iframe>
+  </div>
 
 <hr>
 
@@ -70,12 +93,4 @@ text-align: center;
 
 }
 
-.videos-container {
-    display: flex;
-}
 
-.video {
-    width: 50%; /* Adjust this percentage as needed */
-    padding: 0 10px;
-    box-sizing: border-box;
-}
