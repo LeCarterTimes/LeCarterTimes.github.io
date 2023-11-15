@@ -9,7 +9,7 @@
 ![les temps de Carter](https://github.com/LeCarterTimes/LeCarterTimes.github.io/assets/149635328/7b91fa1d-1296-44d6-b7f4-f6cb2957cb00)
 <hr>
 
- <h2>LATEST021</h2>
+ <h2>LATEST022</h2>
 
 <hr>
 
@@ -59,11 +59,6 @@
       justify-content: space-between;
       margin-bottom: 10px;
     }
-
-   .video-container iframe {
-      width: 500%; 
-      height: 500%
-    }
     h1{
 
 text-align: center;
@@ -79,7 +74,6 @@ text-align: center;
    hr {
       border: none; 
       background-color: black; 
-      height: 2px;
     }
     
   </style>
