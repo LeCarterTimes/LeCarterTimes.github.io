@@ -16,8 +16,8 @@
   <meta charset="UTF-8">
 
   <div class="video-container">
-    <iframe width="315" height="500" src="https://youtube.com/embed/Q60hPIm0344?feature=share"></iframe>
-    <iframe width="315" height="500" src="https://youtube.com/embed/ZTds8TV1a2Y?feature=share"></iframe>
+    <iframe width="300" height="500" src="https://youtube.com/embed/Q60hPIm0344?feature=share"></iframe>
+    <iframe width="300" height="500" src="https://youtube.com/embed/ZTds8TV1a2Y?feature=share"></iframe>
   </div>
 
 <hr>
