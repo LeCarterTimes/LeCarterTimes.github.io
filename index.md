@@ -16,12 +16,12 @@
 <div id="wrapper"> 
   <div id="home1">
    <video width="400" height="300" poster="images/video.jpg" controls="controls" preload="none"> 
-       src="https://youtube.com/embed/Q60hPIm0344?feature=share"
+        <source type="video/mp4" src="https://youtube.com/embed/Q60hPIm0344?feature=share" />
    </video>
   </div>
   <div id="home2">
    <video width="400" height="300" poster="images/video.jpg" controls="controls" preload="none"> 
-       src="https://youtube.com/embed/ZTds8TV1a2Y?feature=share"
+          <source type="video/mp4" src="https://youtube.com/embed/ZTds8TV1a2Y?feature=share" />
    </video>
   </div> 
 </div>
