@@ -13,17 +13,13 @@
 
 <hr>
 
-<div id="wrapper"> 
-  <div id="home1">
-   <video width="400" height="300" poster="images/video.jpg" controls="controls" preload="none"> 
-        <source type="video/mp4" src="https://youtube.com/embed/Q60hPIm0344?feature=share" />
-   </video>
-  </div>
-  <div id="home2">
-   <video width="400" height="300" poster="images/video.jpg" controls="controls" preload="none"> 
-          <source type="video/mp4" src="https://youtube.com/embed/ZTds8TV1a2Y?feature=share" />
-   </video>
-  </div> 
+<div class=“videos-container”>
+    <div class=“video”>
+        <iframe width=“560” height=“315” src=“https://www.youtube.com/embed/YOUR_VIDEO_ID_HERE_1” frameborder=“0” allowfullscreen></iframe>
+    </div>
+    <div class=“video”>
+        <iframe width=“560” height=“315” src=“https://www.youtube.com/embed/YOUR_VIDEO_ID_HERE_2” frameborder=“0” allowfullscreen></iframe>
+    </div>
 </div>
 
 <hr>
