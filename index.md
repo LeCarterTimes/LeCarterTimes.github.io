@@ -7,10 +7,15 @@
 ![les temps de Carter](https://github.com/LeCarterTimes/LeCarterTimes.github.io/assets/149635328/7b91fa1d-1296-44d6-b7f4-f6cb2957cb00)
 <hr/>
 
-## LATEST
+## LATEST01
 
-<iframe src="https://youtube.com/embed/ZTds8TV1a2Y?feature=share" frameborder="0" height="500" width="500"></iframe><iframe src="https://youtube.com/embed/Q60hPIm0344?feature=share" frameborder="0" height="500" width="500"></iframe>
+<div>
 
+<iframe src="https://youtube.com/embed/ZTds8TV1a2Y?feature=share" frameborder="0" height="500" width="500"></iframe>
+
+<iframe src="https://youtube.com/embed/Q60hPIm0344?feature=share" frameborder="0" height="500" width="500"></iframe>
+
+</div>
 <hr/>
 
 ### These are the hubs of LeCarterTimes, to view any content currently availible, click one of the links below to go to a hub full of that material.
