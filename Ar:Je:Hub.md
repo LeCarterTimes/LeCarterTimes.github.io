@@ -17,6 +17,9 @@
 
 - [Daily Journal 06](https://lecartertimes.github.io/Ar:Je:Six.html)
 
+- [Daily Journal 07](https://lecartertimes.github.io/Ar:Je:Seven.html)
+
+
 <style>
 
 h2 {
