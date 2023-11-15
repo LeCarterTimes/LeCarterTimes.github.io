@@ -1,15 +1,15 @@
-# 𝔏𝔢𝔰 𝔱𝔢𝔪𝔭𝔰 𝔡𝔢 ℭ𝔞𝔯𝔱𝔢𝔯
+<h1>𝔏𝔢𝔰 𝔱𝔢𝔪𝔭𝔰 𝔡𝔢 ℭ𝔞𝔯𝔱𝔢𝔯</h1>
 
 <hr>
 
-### les temps de carter hopes to provide a daily entry about any topic, ranging from personel opinion to politics
+<h3>les temps de carter hopes to provide a daily entry about any topic, ranging from personel opinion to politics</h3>
 
 <hr>
 
 ![les temps de Carter](https://github.com/LeCarterTimes/LeCarterTimes.github.io/assets/149635328/7b91fa1d-1296-44d6-b7f4-f6cb2957cb00)
 <hr>
 
-## LATEST015
+ <h2>LATEST016</h2>
 
 <hr>
 
@@ -19,7 +19,7 @@
     .video-container {
       display: flex;
       justify-content: space-between;
-      margin-bottom: 20px;
+      margin-bottom: 70px;
     }
 
    .video-container iframe {
@@ -38,16 +38,15 @@ text-align: center;
 }
     
   </style>
-</head>
-<body>
+
   <div class="video-container">
-    <iframe src="https://youtube.com/embed/ZTds8TV1a2Y?feature=share"></iframe>
+    <iframe src="https://youtube.com/embed/Q60hPIm0344?feature=share"></iframe>
     <iframe src="https://youtube.com/embed/ZTds8TV1a2Y?feature=share"></iframe>
   </div>
 
 <hr>
 
-### These are the hubs of LeCarterTimes, to view any content currently availible, click one of the links below to go to a hub full of that material.
+<h3>These are the hubs of LeCarterTimes, to view any content currently availible, click one of the links below to go to a hub full of that material.</h3>
 
 <hr>
 
