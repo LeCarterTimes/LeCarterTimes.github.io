@@ -74,14 +74,6 @@ text-align: center;
       border: none; 
       background-color: black; 
     }
-
-.video-container {
-    text-align: center;
-    margin: 0 auto; /* This centers the container horizontally */
-}
-.video-container iframe {
-    display: inline-block;
-}
     
   </style>
 
