@@ -70,54 +70,12 @@ text-align: center;
 
 }
 
-hr{
-
-color: black;
-
+.videos-container {
+    display: flex;
 }
 
-#wrapper { 
-    width: 920px; 
-    height: auto; 
-    margin: 0 auto;
-} 
-#home1 { 
-    width: 47.5%; 
-    height: 300px; 
-    float: left; 
-    margin-right: 5%;
-} 
-
-#home2 { 
-    width: 47.5%; 
-    height: 300px; 
-    float: left; 
+.video {
+    width: 50%; /* Adjust this percentage as needed */
+    padding: 0 10px;
+    box-sizing: border-box;
 }
-
-.clear{
-    clear: both;
-}
-
-@media (max-width:767px){
-    #wrapper{
-        width: 100%;
-        height: auto;
-    }
-    #home1 {
-        width: 100%;
-        height: auto;
-        float: none;
-    }
-    #home2 {
-        width: 100%;
-        height: auto;
-        float: none;
-    }
-
-#home2 { width: 100%; float: none; }
-
-#home1 { width: 100%; float: none; }
-    
-}
- 
-</style>
