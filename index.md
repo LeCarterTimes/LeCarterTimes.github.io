@@ -9,35 +9,11 @@
 ![les temps de Carter](https://github.com/LeCarterTimes/LeCarterTimes.github.io/assets/149635328/7b91fa1d-1296-44d6-b7f4-f6cb2957cb00)
 <hr>
 
- <h2>LATEST016</h2>
+ <h2>LATEST017</h2>
 
 <hr>
 
   <meta charset="UTF-8">
-  
-  <style>
-    .video-container {
-      display: flex;
-      justify-content: space-between;
-      margin-bottom: 70px;
-    }
-
-   .video-container iframe {
-      width: 48%; 
-    }
-    h1{
-
-text-align: center;
-
-}
-
-h2{
-
-text-align: center;
-
-}
-    
-  </style>
 
   <div class="video-container">
     <iframe src="https://youtube.com/embed/Q60hPIm0344?feature=share"></iframe>
@@ -78,18 +54,33 @@ text-align: center;
  
 <hr>
 <style>
+    .video-container {
+      display: flex;
+      justify-content: space-between;
+      margin-bottom: 70px;
+    }
 
-h1{
+   .video-container iframe {
+      width: 48%; 
+    }
+    h1{
 
 text-align: center;
 
 }
-
 
 h2{
 
 text-align: center;
 
 }
+
+   hr {
+      border: none; 
+      background-color: black; 
+      height: 2px;
+    }
+    
+  </style>
 
 
