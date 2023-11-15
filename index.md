@@ -9,17 +9,16 @@
 ![les temps de Carter](https://github.com/LeCarterTimes/LeCarterTimes.github.io/assets/149635328/7b91fa1d-1296-44d6-b7f4-f6cb2957cb00)
 <hr>
 
-## LATEST07
+## LATEST08
 
 <hr>
 
 <div id="wrapper"> 
-    <video> 
+    
       <iframe src="https://youtube.com/embed/Q60hPIm0344?feature=share" frameborder="0" height="500" width="500"></iframe>
-    </video>
-    <video>
+
      <iframe src="https://youtube.com/embed/ZTds8TV1a2Y?feature=share" frameborder="0" height="500" width="500"></iframe>
-    </video>
+    
     <div class="clear"></div> 
 </div>
 
