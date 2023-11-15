@@ -15,7 +15,7 @@
 
 - [Daily Journal 05](https://lecartertimes.github.io/Ar:Je:Five.html)
 
-- [Daily Journal 05](https://lecartertimes.github.io/Ar:Je:Six.html)
+- [Daily Journal 06](https://lecartertimes.github.io/Ar:Je:Six.html)
 
 <style>
 
