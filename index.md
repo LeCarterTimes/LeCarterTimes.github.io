@@ -27,7 +27,8 @@
 
 <div>
 
-- [Daily Journal 07](https://lecartertimes.github.io/Ar:Je:Seven.html)
+ - [Daily Journal 07](https://lecartertimes.github.io/Ar:Je:Seven.html)
+
 - [Review of the first part of the seventh chapter of 'Visualizing the sacred'](https://lecartertimes.github.io/Ar:Vts:FirstSeven.html)
 
 </div>
