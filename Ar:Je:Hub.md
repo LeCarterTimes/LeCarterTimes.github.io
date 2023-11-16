@@ -19,6 +19,8 @@
 
 - [Daily Journal 07](https://lecartertimes.github.io/Ar:Je:Seven.html)
 
+- [Daily Journal 08](https://lecartertimes.github.io/Ar:Je:Eight.html)
+
 
 <style>
 
