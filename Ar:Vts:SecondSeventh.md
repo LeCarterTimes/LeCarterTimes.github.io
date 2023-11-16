@@ -1,4 +1,4 @@
-# econd part of the seventh chapter of ‘Visualizing the Sacred’
+# Second part of the seventh chapter of ‘Visualizing the Sacred’
 
 #### Something I find interesting is the history the tablet has gone through. What I mean by this is the people who have made theories about what the tablet means, the astounding level of carelessness gone into preserving it, and the apparent initials scratched onto it. I really appreciate all those who read this, so without adieu, let's get into it!
 
