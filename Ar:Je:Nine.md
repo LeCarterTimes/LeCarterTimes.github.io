@@ -1,4 +1,4 @@
-# Journal 08
+# Daily Journal 09
 
 #### You know, I'm hitting kind of a block. I am finding it hard to think about what to write about. Maybe I could write about being energized? No, that won't work. Hmm. Maybe something about shabbat? Eh, I'm not sure. Or maybe something about how I'm feeling? hmmm…..
 
