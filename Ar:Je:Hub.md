@@ -21,6 +21,8 @@
 
 - [Daily Journal 08](https://lecartertimes.github.io/Ar:Je:Eight.html)
 
+- [Daily Journal 09](https://lecartertimes.github.io/Ar:Je:Nine.html)
+
 
 <style>
 
