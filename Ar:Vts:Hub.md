@@ -27,7 +27,7 @@
 
 - [Review of the first part of the seventh chapter of 'Visualizing the sacred'](https://lecartertimes.github.io/Ar:Vts:FirstSeven.html)
 
-- [Review of the second part of the seventh chapter of 'Visualizing the sacred'](https://lecartertimes.github.io/Ar:Vts:SecondSeven.html)
+- [Review of the second part of the seventh chapter of 'Visualizing the sacred'](https://lecartertimes.github.io/Ar:Vts:SecondSevenn.html)
 
 - [Review of the third part of the seventh chapter of 'Visualizing the sacred'](https://lecartertimes.github.io/Ar:Vts:ThirdSeven.html)
 
