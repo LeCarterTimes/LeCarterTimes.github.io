@@ -23,6 +23,7 @@
 
 - [Daily Journal 09](https://lecartertimes.github.io/Ar:Je:Nine.html)
 
+- [Daily Journal 10](https://lecartertimes.github.io/Ar:Je:Ten.html)
 
 <style>
 
