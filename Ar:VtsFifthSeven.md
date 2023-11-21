@@ -1,4 +1,6 @@
-You know, I really enjoy this book. I just enjoy being able to be nitpicky about the theories that the authors put forward, the artistic ability that this ancient person must have had, and some of the challenges the Thruston tablet has faced, in the sense of it still being readable. If you like this kind of thing too, then let's jump right into it!
+# Fifth part of the seventh chapter of ‘Visualizing the Sacred’
+
+#### You know, I really enjoy this book. I just enjoy being able to be nitpicky about the theories that the authors put forward, the artistic ability that this ancient person must have had, and some of the challenges the Thruston tablet has faced, in the sense of it still being readable. If you like this kind of thing too, then let's jump right into it!
 
 Something that I find interesting is the way the background looks. By the background i mean the three images at seemingly different ends of the tablet. These images that were carved into the rock are much more faded than the foreground, which is most visible out of the two
 
