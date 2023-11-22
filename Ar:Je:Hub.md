@@ -25,6 +25,9 @@
 
 - [Daily Journal 10](https://lecartertimes.github.io/Ar:Je:Ten.html)
 
+- [Daily Journal 11](https://lecartertimes.github.io/Ar:Je:Eleven.html)
+
+
 <style>
 
 h2 {
