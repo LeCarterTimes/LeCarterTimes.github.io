@@ -27,7 +27,6 @@
 
 - [Daily Journal 11](https://lecartertimes.github.io/Ar:Je:Eleven.html)
 
-
 <style>
 
 h2 {
