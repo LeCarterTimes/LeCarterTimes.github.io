@@ -9,9 +9,3 @@ Although something I like about pottery is the ease that you can track when and 
 Something that is very intriguing about classifying where pottery is from however is the phenomenon that occurs when you try to classify it into specific categories. Pottery design has no clear cut borders, more just style centers. So when trying to classify them into their own categories, the categories get smaller and smaller, and this in turn makes it harder to recognize themes that the pottery retains, even through the other changes that it goes through. 
 
 I honestly find that this section written by David H. Dye is quite intriguing, especially the part about the trouble trying to categorize different styles. But more than anything i enjoy just seeing other people's views and the fields they've written about, i mean just the way about tracking where and when the pottery came from is intriguing, let alone the just ridiculousness of Waring and Holder's methods of classification of materials. If you like this post, check out some more!
-
-- [Review of the third chapter of 'Visualizing the sacred'](https://lecartertimes.github.io/postthree.html)
-
-- [Review of the fourth chapter of 'Visualizing the sacred'](https://lecartertimes.github.io/postfour.html)
-
-- [Review of half the sixth chapter of 'Visualizing the Sacred'](https://lecartertimes.github.io/postsixandonehalf.html)
