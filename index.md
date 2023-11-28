@@ -35,26 +35,10 @@
 
 <hr>
 
-testr04
-
-<hr>
-
-<div class="test-container">
-
 <img src="https://github.com/LeCarterTimes/LeCarterTimes.github.io/assets/149635328/2d3164d5-7985-4139-8b63-feb0fcee8a77" height="270" width="270"/> 
 
 - [View Daily Entries](https://lecartertimes.github.io/Ar:Je:Hub.html)
 
-<img src="https://github.com/LeCarterTimes/LeCarterTimes.github.io/assets/149635328/b61e83f5-aec0-4505-b600-5a01951ef325" height="270" width="270"/>
-
-</div>
-
-<div>
-
-- [View Daily Entries](https://lecartertimes.github.io/Ar:Je:Hub.html)
-- [View articles about Mathmatics](https://lecartertimes.github.io/Ar:Ma:Hub.html)
- 
-</div>
 
 <hr>
 
