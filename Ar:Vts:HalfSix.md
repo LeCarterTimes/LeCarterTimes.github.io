@@ -9,9 +9,3 @@ One reason for the great serpent occurring on many of these vessels is that thes
 Although something that I find interesting is that there are around ten styles of winged serpents that have been categorized by a computer system, counting things like eye shape, wing shape, and body patterns found on the serpent images. One theory states that these styles may have represented different legends or myths about the winged serpent. Another states that the style variations may have been signatures of certain artists, or that they may have been specific styles from different workshops but i am really not sure.
 
  I do hope that we can find out the answer to if they were from a specific workshop or artist. I also hope we can find out what they were used for, like in ceremony or medicine, or even if we can say for sure what the great winged serpent represented. But honestly, I'm not sure we can know the answer with current technology,but I hope we will soon. If you liked this post, go ahead and look at another while you're here, Thanks! 
-
-- [Review of the third chapter of 'Visualizing the sacred'](https://lecartertimes.github.io/postthree.html)
-
-- [Review of the fourth chapter of 'Visualizing the sacred'](https://lecartertimes.github.io/postfour.html)
-
-- [Review of the fith chapter of 'Visualizing the Sacred'](https://lecartertimes.github.io/postfive.html)
