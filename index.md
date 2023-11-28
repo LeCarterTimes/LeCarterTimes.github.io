@@ -35,7 +35,7 @@
 
 <hr>
 
-testr03
+testr04
 
 <hr>
 
@@ -49,7 +49,7 @@ testr03
 
 </div>
 
-<div class="test-container02">
+<div>
 
 - [View Daily Entries](https://lecartertimes.github.io/Ar:Je:Hub.html)
 - [View articles about Mathmatics](https://lecartertimes.github.io/Ar:Ma:Hub.html)
@@ -96,11 +96,6 @@ text-align: center;
     }
 
    .test-container {
-      display: flex;
-      margin-bottom: 10px;
-    }
-
-.test-container02 {
       display: flex;
       margin-bottom: 10px;
     }
