@@ -26,9 +26,10 @@
 <hr>
 
 
-- [Daily Journal 07](https://lecartertimes.github.io/Ar:Je:Seven.html)
+- [Daily Journal 11](https://lecartertimes.github.io/Ar:Je:Eleven.html)
 
-- [Review of the third part of the seventh chapter of 'Visualizing the sacred'](https://lecartertimes.github.io/Ar:Vts:ThirdSeventh.html)
+- [Preface of ‘In Plain Sight’ by Gloria Farley](https://lecartertimes.github.io/Ar:Ips:preface.html)
+
 <hr>
 
 <h3>These are the hubs of LeCarterTimes, to view any content currently availible, click one of the links below to go to a hub full of that material.</h3>
