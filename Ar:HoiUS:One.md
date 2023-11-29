@@ -1,6 +1,8 @@
-# This is the preface to the book, A History Of The Indians Of The United States. In this article I want to touch up on some of the apparent racism in this book, the time in which it was written, and the early life of the author Angie Debo. I thank you for reading this article, and without adieu, let's get into it!
+# My Review of the preface of 'A History Of The Indians Of The United States' by Angie Debo
+
+#### This is the preface to the book, A History Of The Indians Of The United States. In this article I want to touch up on some of the apparent racism in this book, the time in which it was written, and the early life of the author Angie Debo. I thank you for reading this article, and without adieu, let's get into it!
  
-#### Ok, so in this preface, I notice the apparent racism that, while this person is trying to be professional, is still quite apparent. This person, Angie Debo, has brought up  terms that may be quite offensive today. Some of them are: fullblood, Creeks, 	and the quote “superior race”.
+Ok, so in this preface, I notice the apparent racism that, while this person is trying to be professional, is still quite apparent. This person, Angie Debo, has brought up  terms that may be quite offensive today. Some of them are: fullblood, Creeks, 	and the quote “superior race”.
 
 It is worth noting that some of the terminology used back when this book was written may be viewed as racist or ignorant today. Examples that I used above are creeks, which nowadays prefer to be called Muskogee, or the term full blood or half blood, which depending on who you ask is an offensive term used today. There will be many more sayings and terms which may be offensive today, but I will still try to keep an open mind and write my opinions about the book as I read on. So just because the writer may use terms like full blood, Creek or Indian, we still have to take into account the terminology that was used back in those days and use an open mind to assess those things fairly and justly, taking into account what the writer meant and the ideas they were trying to present. 
 
