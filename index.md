@@ -103,7 +103,6 @@ text-align: center;
 .block {
   flex: 1;
   margin: 5px;
-  padding: 10px;
   text-align: center; /* Center-align text */
  
 }
