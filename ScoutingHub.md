@@ -9,7 +9,7 @@
 
 <hr>
 
-- [Chart for main editor Carter's fitness plan in Scouts](https://lecartertimes.github.io/Ar:VtsSixthSeven.html)
+- [Chart for main editor Carter's fitness plan in Scouts](https://lecartertimes.github.io/Ar:Ips:preface.html)
 
 <hr>
 
