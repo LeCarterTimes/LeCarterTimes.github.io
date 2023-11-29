@@ -9,7 +9,7 @@
 ![les temps de Carter](https://github.com/LeCarterTimes/LeCarterTimes.github.io/assets/149635328/7b91fa1d-1296-44d6-b7f4-f6cb2957cb00)
 <hr>
 
- <h2>LATEST VIDEOS02</h2>
+ <h2>LATEST VIDEOS03</h2>
 
 <hr>
 
@@ -44,7 +44,7 @@
 <hr>
 
 
-<img src="https://github.com/LeCarterTimes/LeCarterTimes.github.io/assets/149635328/16c084cf-f7b7-4cf0-a411-2ce94369d615" height="270" width="270"/> <img src="https://github.com/LeCarterTimes/LeCarterTimes.github.io/assets/149635328/94f6981d-7ae0-4e58-a52f-c1a091aee4a3" alt="visualizing the sacred" height="270" width="270"/>
+<img src="https://github.com/LeCarterTimes/LeCarterTimes.github.io/assets/149635328/16c084cf-f7b7-4cf0-a411-2ce94369d615" height="270" width="270"/> <img src="https://github.com/LeCarterTimes/LeCarterTimes.github.io/assets/149635328/94f6981d-7ae0-4e58-a52f-c1a091aee4a3" alt="visualizing the sacred" height="270" width="270" class="VTS"/>
 
 [View articles on 'The Odyssey' by Homer](https://lecartertimes.github.io/Ar:To:Hub.html) | [View articles on 'Visualizing the Sacred' by George E. Lankford, F Kent Reilly 3rd, and James F. Garber](https://lecartertimes.github.io/Ar:Vts:Hub.html)         
                                                                                       
@@ -77,16 +77,17 @@ text-align: center;
       border: none; 
       background-color: black; 
     }
-
-   .test-container {
-      display: flex;
-      margin-bottom: 10px;
-    }
     
    img { 
     padding-left: 10px;
     }
+
+   .VTS {
+
+     padding-left: 10px;
     
+   }
+   
   </style>
 
 
