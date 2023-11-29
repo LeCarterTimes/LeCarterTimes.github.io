@@ -4,7 +4,7 @@
 
 <h2>Boy Scouts of America</h2>
 
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/Boy_Scouts_of_America_corporate_trademark.svg/220px-Boy_Scouts_of_America_corporate_trademark.svg.png" alt="Boy Scouts of America" height="700" width="900"/>
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/Boy_Scouts_of_America_corporate_trademark.svg/220px-Boy_Scouts_of_America_corporate_trademark.svg.png" alt="Boy Scouts of America" height="700" width="500" class="center"/>
  <h3>Have a look at one of our articles or charts for Boy Scouts of America</h3>
 
 <hr>
@@ -25,4 +25,11 @@ text-align: center;
 text-align: center;
 
 }
+ .center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 </style>
