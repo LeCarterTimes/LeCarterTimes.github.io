@@ -1,4 +1,4 @@
-Finding flint, a beginners guide
+# Finding flint, a beginners guide
 
 Flint, what is it? What does it look like? Where to find it? These are all questions that I am going to explain to you and more! But first off, why am I interested? Well because first off i am a survivalist, i enjoy all things fire, shelter and hunting, and what better way to hunt than to create and to build your very own arrowheads! And yes, flint is used in the process of flintknapping where you strike flint in a very special way and eventually turn it into an arrowhead/spearhead.
 And second is well, finding and knapping flint is where my happy place is. I mean you get to go outside and find it, you get to put your feet on grass and feel the environment! It's very amazing.
