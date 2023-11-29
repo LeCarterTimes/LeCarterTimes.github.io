@@ -106,8 +106,7 @@ text-align: center;
   margin: 5px;
   padding: 10px;
   text-align: center; /* Center-align text */
-  text-decoration: none; /* Remove default link underline */
-  color: #000; /* Set link color */
+ 
 }
 
 .block:hover {
