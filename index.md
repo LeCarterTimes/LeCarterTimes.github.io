@@ -102,16 +102,13 @@ text-align: center;
 
 .block {
   flex: 1;
-  border: 1px solid #000;
   margin: 5px;
   padding: 10px;
   text-align: center; /* Center-align text */
  
 }
 
-.block:hover {
-  background-color: #eee; /* Change background on hover */
-}
+
  
   </style>
 
