@@ -56,12 +56,6 @@
 
 <hr>
 
-<img src="https://github.com/LeCarterTimes/LeCarterTimes.github.io/assets/149635328/94f6981d-7ae0-4e58-a52f-c1a091aee4a3" alt="visualizing the sacred" height="270" width="270"/>
-
-
- - [View articles on 'Visualizing the Sacred' by George E. Lankford, F Kent Reilly 3rd, and James F. Garber](https://lecartertimes.github.io/Ar:Vts:Hub.html)
- 
-<hr>
 <style>
     .video-container {
       display: flex;
