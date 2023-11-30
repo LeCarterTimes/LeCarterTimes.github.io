@@ -122,13 +122,13 @@ text-align: center;
 
 .VtsHub {
 
-padding-left: 45px;
+padding-left: 50px;
  
 }
 
 .HoIUSHub {
 
-padding-left: 45px
+padding-left: 50px
  
 }
  
