@@ -1,0 +1,11 @@
+# the reasons/introductions part of the book ‘In Plain Sight’ by Gloria Farley
+
+#### Something that I am fascinated about is ancient carvings, and how and why they were made. So I really enjoy this book, talking about the many ancient scripts found in North America, along with the explanations as to how they got there. As I dive deeper into this book, I am more and more excited to see what's next. So I may end up reading again later today. If you wanna get a quick overview, then by all means, let's jump in!
+
+Something I have just read in this book is, there was writing left in oklahoma. But what kind of writing? Well some of the scripts include ogam, punic, libyan and more. And this is amazing because there is one example of all these scripts being found in a 30 mile radius! 
+
+That must be faked, or misunderstood native inscriptions, right? Well no, they're not. These writings have all been found and certified, with there being examples of them  both in the new world and exact versions being in the old world. The reason these writings are all in a 30 mile radius is because of one simple thing.
+
+That thing is that these things were found on or near the Mississippi river, which leads out to sea. This also explains how they were in Oklahoma, as people from the old world sailed up from Iberia and surrounding areas up the Mississippi and into North america. Something you may be asking however is, well how did these old world people get here? Well the answers that the phoenicians, along with other people who were in and around the mediterranean and specifically iberia, came over with their ocean going ships to settle.
+
+This would explain why there seems to be both writing and even the things like the thruston tablet, which was found along a river that leads out into the Mississippi, which clearly shows a  viking longship. If you like content like discussing how there was old world writing along the Mississippi, the reason it was found there, and the way that people even got there, then please look at another article while your here. If you want to support the site, please go ahead and check out our youtube channel, LeCarterTimes, and share this article with a friend. Thanks!
