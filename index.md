@@ -48,7 +48,7 @@
 
 <!-- daily entry hub -->
 
-<img src="https://github.com/LeCarterTimes/LeCarterTimes.github.io/assets/149635328/2d3164d5-7985-4139-8b63-feb0fcee8a77" height="270" width="270"/> 
+ <a href="https://lecartertimes.github.io/Ar:Je:Hub.html"><img src="https://github.com/LeCarterTimes/LeCarterTimes.github.io/assets/149635328/2d3164d5-7985-4139-8b63-feb0fcee8a77" height="270" width="270"/></a>
 
 - [View Daily Entries](https://lecartertimes.github.io/Ar:Je:Hub.html)
 
@@ -61,7 +61,7 @@
 
 <!-- links -->
 
-<div class="container">
+<div class="containerONE">
   <a href="https://lecartertimes.github.io/Ar:To:Hub.html" class="block">View articles on 'The Odyssey' by Homer</a>
   <a href="https://lecartertimes.github.io/Ar:Vts:Hub.html" class="block">View articles on 'Visualizing the Sacred' by George E. Lankford, F Kent Reilly 3rd, and James F. Garber</a>
   <a href="https://lecartertimes.github.io/Ar:HoiUS:Hub.html" class="block">View articles on 'A History of the Indians of the United States' by Angie Debo</a>
@@ -74,10 +74,12 @@
 
 <!-- these are the outdoor hubs -->
 
-<img src="https://camo.githubusercontent.com/00d1930fd2568489b07f9df01ef9237585e1d8b1ce4f40510002069c3a9be64e/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f656e2f7468756d622f652f65352f426f795f53636f7574735f6f665f416d65726963615f636f72706f726174655f74726164656d61726b2e7376672f32323070782d426f795f53636f7574735f6f665f416d65726963615f636f72706f726174655f74726164656d61726b2e7376672e706e67" alt="Boy Scouts of America" height="270" width="270"/> <img src="https://physicsworld.com/wp-content/uploads/2021/04/compass-web-5803294_iStock_muffinmaker.jpg" alt="Molecular compass tracks tiny forces – Physics World" height="270" width="270" class="OTDRS"/>
+ <a href="https://lecartertimes.github.io/Ar:ScoutingHub:Hub.html"><img src="https://camo.githubusercontent.com/00d1930fd2568489b07f9df01ef9237585e1d8b1ce4f40510002069c3a9be64e/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f656e2f7468756d622f652f65352f426f795f53636f7574735f6f665f416d65726963615f636f72706f726174655f74726164656d61726b2e7376672f32323070782d426f795f53636f7574735f6f665f416d65726963615f636f72706f726174655f74726164656d61726b2e7376672e706e67" alt="Boy Scouts of America" height="270" width="270"/></a>  <a href="https://lecartertimes.github.io/Ar:OutdrsHub:Hub.html"><img src="https://physicsworld.com/wp-content/uploads/2021/04/compass-web-5803294_iStock_muffinmaker.jpg" alt="Molecular compass tracks tiny forces – Physics World" height="270" width="270" class="OTDRS"/></a>
 
-
-- [See material on Boy Scouts of America](https://lecartertimes.github.io/ScoutingHub.html) |  [View articles on Outdoor survival](https://lecartertimes.github.io/Ar:Outdrs:Hub.html)         
+<div class="containerTWO">
+  <a href="https://lecartertimes.github.io/ScoutingHub.html" class="block">See material on Boy Scouts of America</a>
+  <a href="https://lecartertimes.github.io/Ar:Outdrs:Hub.html" class="block">View articles on Outdoor survival</a>
+</div>       
 
 <hr>
 
@@ -109,7 +111,7 @@ text-align: center;
     
    }
 
- .container {
+ .containerONE {
   display: flex;
 }
 
@@ -131,6 +133,11 @@ padding-left: 50px;
 padding-left: 50px
  
 }
+
+.containerTWO {
+  display: flex;
+}
+
  
   </style>
 
