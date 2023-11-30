@@ -7,11 +7,11 @@
 
  <h3>View any one of our review articles about the book 'The Odyssey'</h3>
 
-<hr width=100%>
+<hr>
 
 - [Three things about math](https://lecartertimes.github.io/Ar:Ma:One.html)
 
-<hr width=100%>
+<hr>
 
 <style>
 
