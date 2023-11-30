@@ -4,10 +4,15 @@
 
 <hr>
 
-| Days     | 20 daily push ups | 20 daily sit ups | Mile walk every other day |
+| Days     | 20 daily push ups | 20 daily sit ups | Mile walk once a week |
 | -------- | ----------------- | ---------------- | ------------------------- |
-| Tuesday  | yes               | no               | no                        |
-| Wensday  |
-| Thursday |
-| Friday   |
-| Sunday   |
+| nov 28   | yes               | no               | no                        |
+| nov 29   | yes               | yes              | no                        |
+| nov 30   |
+| dec 1    |
+| dec 2    |
+| dec 3    |
+| dec 4    |
+| dec 5    |
+| dec 6    |
+| dec 7    |
