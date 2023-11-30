@@ -125,7 +125,6 @@ text-align: center;
 .block {
 
   flex: 1;
-  text-align: center; /* Center-align text */
  
 }
 
