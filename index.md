@@ -11,7 +11,7 @@
 
 <!-- this section is where the videos are, and to change or add to the videos mess with the divs below -->
 
- <h2>LATEST VIDEOS6</h2>
+ <h2>LATEST VIDEOS7</h2>
 
 <hr>
 
@@ -124,7 +124,7 @@ text-align: center;
 
  .LCOne{
 
-   padding-left: 20px;
+   padding-left: 200px;
   
  }
  
