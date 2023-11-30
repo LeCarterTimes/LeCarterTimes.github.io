@@ -11,7 +11,7 @@
 
 <!-- this section is where the videos are, and to change or add to the videos mess with the divs below -->
 
- <h2>LATEST VIDEOS5</h2>
+ <h2>LATEST VIDEOS6</h2>
 
 <hr>
 
@@ -56,10 +56,11 @@
 <hr>
 
 <!-- liturature hubs, go ahead and add to this as many times as you want -->
-
-<div class="liturature-container">
+<div class="LCOne">
 
 <img src="https://github.com/LeCarterTimes/LeCarterTimes.github.io/assets/149635328/16c084cf-f7b7-4cf0-a411-2ce94369d615" height="270" width="270"/> <img src="https://github.com/LeCarterTimes/LeCarterTimes.github.io/assets/149635328/94f6981d-7ae0-4e58-a52f-c1a091aee4a3" alt="visualizing the sacred" height="270" width="270"/> <img src="https://camo.githubusercontent.com/b6d54b090805dd786546a35ed6acd18360ee2984ef116f691c10d9eaadbc8e50/68747470733a2f2f73746f72652e66616d6f6b2e6f72672f63646e2f73686f702f70726f64756374732f393738303830363131383838385f6772616e64652e6a70673f763d31363433323132393639" alt="A History of the Indians of the United States by Angie Debo (Softback) –  FAMstore" height="270" width="270"/>
+
+</div>
 
 <!-- links -->
 
@@ -121,11 +122,11 @@ text-align: center;
  
 }
 
-.liturature-container {
+ .LCOne{
 
-padding-left: 100px;
- 
-}
+   padding-left: 20px;
+  
+ }
  
   </style>
 
