@@ -48,6 +48,10 @@
 
 <!-- daily entry hub -->
 
+<h3>Informtional Hubs</h3>
+
+<hr>
+
  <a href="https://lecartertimes.github.io/Ar:Je:Hub.html"><img src="https://github.com/LeCarterTimes/LeCarterTimes.github.io/assets/149635328/2d3164d5-7985-4139-8b63-feb0fcee8a77" height="270" width="270"/></a>
 
 - [View Daily Entries](https://lecartertimes.github.io/Ar:Je:Hub.html)
@@ -56,6 +60,10 @@
 <hr>
 
 <!-- liturature hubs, go ahead and add to this as many times as you want -->
+
+<h3>Liturature Hubs</h3>
+
+<hr>
 
   <a href="https://lecartertimes.github.io/Ar:To:Hub.html"><img src="https://github.com/LeCarterTimes/LeCarterTimes.github.io/assets/149635328/16c084cf-f7b7-4cf0-a411-2ce94369d615" height="270" width="270"/></a>  <a href="https://lecartertimes.github.io/Ar:Vts:Hub.html"><img src="https://github.com/LeCarterTimes/LeCarterTimes.github.io/assets/149635328/94f6981d-7ae0-4e58-a52f-c1a091aee4a3" alt="visualizing the sacred" height="270" width="270" class="VtsHub"/></a>  <a href="https://lecartertimes.github.io/Ar:HoiUS:Hub.html"><img src="https://camo.githubusercontent.com/b6d54b090805dd786546a35ed6acd18360ee2984ef116f691c10d9eaadbc8e50/68747470733a2f2f73746f72652e66616d6f6b2e6f72672f63646e2f73686f702f70726f64756374732f393738303830363131383838385f6772616e64652e6a70673f763d31363433323132393639" alt="A History of the Indians of the United States by Angie Debo (Softback) –  FAMstore" height="270" width="270" class="HoIUSHub"/></a>
 
@@ -73,6 +81,10 @@
 
 
 <!-- these are the outdoor hubs -->
+
+<h3>Outdoor Hubs</h3>
+
+<hr>
 
  <a href="https://lecartertimes.github.io/Ar:ScoutingHub:Hub.html"><img src="https://camo.githubusercontent.com/00d1930fd2568489b07f9df01ef9237585e1d8b1ce4f40510002069c3a9be64e/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f656e2f7468756d622f652f65352f426f795f53636f7574735f6f665f416d65726963615f636f72706f726174655f74726164656d61726b2e7376672f32323070782d426f795f53636f7574735f6f665f416d65726963615f636f72706f726174655f74726164656d61726b2e7376672e706e67" alt="Boy Scouts of America" height="270" width="270"/></a>  <a href="https://lecartertimes.github.io/Ar:OutdrsHub:Hub.html"><img src="https://physicsworld.com/wp-content/uploads/2021/04/compass-web-5803294_iStock_muffinmaker.jpg" alt="Molecular compass tracks tiny forces – Physics World" height="270" width="270" class="OTDRS"/></a>
 
