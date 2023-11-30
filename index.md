@@ -11,7 +11,7 @@
 
 <!-- this section is where the videos are, and to change or add to the videos mess with the divs below -->
 
- <h2>LATEST VIDEOS2</h2>
+ <h2>LATEST VIDEOS3</h2>
 
 <hr>
 
@@ -124,6 +124,7 @@ text-align: center;
 
 .block {
 
+  flex: 1;
   text-align: center; /* Center-align text */
  
 }
