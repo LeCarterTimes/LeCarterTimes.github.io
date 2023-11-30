@@ -107,7 +107,7 @@ text-align: center;
 
 .OTDRS {
 
-     padding-left: 20px;
+     padding-left: 150px;
     
    }
 
