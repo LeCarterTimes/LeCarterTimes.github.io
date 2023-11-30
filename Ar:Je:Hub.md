@@ -27,6 +27,10 @@
 
 - [Daily Journal 11](https://lecartertimes.github.io/Ar:Je:Eleven.html)
 
+- [Daily Journal 12](https://lecartertimes.github.io/Ar:Je:Twelve.html)
+
+- [Daily Journal 13](https://lecartertimes.github.io/Ar:Je:Thirteen.html)
+
 <style>
 
 h2 {
