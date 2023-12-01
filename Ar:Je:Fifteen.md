@@ -1,7 +1,6 @@
 # Daily Journal 15
 
-#### First off I wanna say Shabbat shalom, and thanks for reading!
-This entry does not have a lot to report on, but i think i should still tell. I hope to get the rest of this work done by the end of the day, so I can start cooking. I'm going to tell you about three things: the challah I want to make, the food I am going to prepare, and my recipe for deviled eggs!.
+#### First off I wanna say Shabbat shalom, and thanks for reading! This entry does not have a lot to report on, but i think i should still tell. I hope to get the rest of this work done by the end of the day, so I can start cooking. I'm going to tell you about three things: the challah I want to make, the food I am going to prepare, and my recipe for deviled eggs!.
 
 Ok so first, i need to make challah for Shabbat. The recipe will include: one egg, a BUTT ton of sugar, some salt, olive oil, and flour. Note, I do not use measuring cups. So I mix a good bit of sugar and flour together, and a few dashes of salt, then I will add the olive oil, egg and water and mix well. Knead a little bit and put on a baking tray for twenty to thirty minutes, depending on how dark you like your bread, and wam bam thank you ma'am. Note your dough should be shaggy at first, then get stretchier as you go.
 
