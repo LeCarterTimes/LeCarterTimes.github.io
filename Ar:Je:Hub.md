@@ -33,6 +33,8 @@
 
 - [Daily Journal 14](https://lecartertimes.github.io/Ar:Je:Fourteen.html)
 
+- [Daily Journal 15](https://lecartertimes.github.io/Ar:Je:Fifteen.html)
+
 <style>
 
 h2 {
